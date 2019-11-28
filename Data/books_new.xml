@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <Authors>
+         <element>Carl Sagan</element>
+      </Authors>
+      <Pages>365</Pages>
+      <Publisher>Random House</Publisher>
+      <Title>Cosmos</Title>
+      <Year_released>1980</Year_released>
+   </element>
+   <element>
+      <Authors>
+         <element>Stephen Hawking</element>
+      </Authors>
+      <Pages>256</Pages>
+      <Publisher>Bantam Dell Publishing Group</Publisher>
+      <Title>A brief history of time</Title>
+      <Year_released>1988</Year_released>
+   </element>
+   <element>
+      <Authors>
+         <Author>Robert Dinwiddie</Author>
+         <Author>Philip Eales</Author>
+         <Author>David Hughes</Author>
+      </Authors>
+      <Pages>528</Pages>
+      <Publisher>DK</Publisher>
+      <Title>Universe: The Definitive Visual Guide</Title>
+      <Year_released>2007</Year_released>
+   </element>
+</root>
