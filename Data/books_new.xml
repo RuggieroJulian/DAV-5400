@@ -2,7 +2,7 @@
 <root>
    <element>
       <Authors>
-         <element>Carl Sagan</element>
+         <Author>Carl Sagan</Author>
       </Authors>
       <Pages>365</Pages>
       <Publisher>Random House</Publisher>
@@ -11,7 +11,7 @@
    </element>
    <element>
       <Authors>
-         <element>Stephen Hawking</element>
+         <Author>Stephen Hawking</Author>
       </Authors>
       <Pages>256</Pages>
       <Publisher>Bantam Dell Publishing Group</Publisher>
