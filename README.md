@@ -1,5 +1,5 @@
 # DAV-5400
-Data Science Training (M.S in Data Analytics ) in 2019
+Data Analysis with Python Training (M.S in Data Analytics ) in 2019
 
 This repository contains several pieces of code reflecting a specific topic or mini-project in Python. 
 There are exercises with different libraries such as:
